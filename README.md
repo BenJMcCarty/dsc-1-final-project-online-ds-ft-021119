@@ -1,3 +1,6 @@
+# NOTES FROM JAMES IRVING
+- **Final notebook is called _Final Mod 1 Project.ipynb. 
+
 
 # Module 1 Final Project
 
