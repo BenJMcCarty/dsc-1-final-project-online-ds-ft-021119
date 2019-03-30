@@ -3,6 +3,6 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable python-markdown/main
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
-jupyter trust "_Final Mod 1 Project.ipynb"
+jupyter trust _Final\ Mod\ 1\ Project.ipynb
 jupyter trust student.ipynb
 jupyter trust "Summary Figure Alone.ipynb"
